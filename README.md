@@ -62,7 +62,7 @@ The dashboard helps users understand:
 
 ## screenshot of Dashboard
 
-
+https://github.com/sardarrupesh99/Rudransh-Megamart-Sales-Analysis/blob/main/Snapshot%20Of%20Dashboard%20(3).png
 
 ## 👨‍💻 Skills Demonstrated
 
